@@ -1,8 +1,11 @@
 # todo
 
-A new Flutter project.
+A new Flutter project that stores you daily day to day tasks 
 
 ## Getting Started
+
+run command 'Flutter run' to run the project
+
 
 This project is a starting point for a Flutter application.
 
