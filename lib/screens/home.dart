@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 import '../constraints/colors.dart';
 import '../model/todo.dart';
 import '../widget/todo_item.dart';
